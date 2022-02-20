@@ -1,0 +1,19 @@
+.cat-item {
+    position: relative;
+  }
+  
+  .cat-item .item-info {
+    position: absolute;
+    right: 35px;
+    top: 25%;
+  }
+  
+  .cat-item .read-more {
+    color: #fb5c42;
+    border-color: #fb5c42;
+  }
+  
+  .cat-item p {
+    font-size: 18px;
+  }
+  

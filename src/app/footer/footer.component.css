@@ -1,0 +1,37 @@
+.footer {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    background: #f9f9f9;
+  }
+  
+  .footer-widget ul li {
+    margin-bottom: 15px;
+  }
+  
+  .footer-widget ul li a {
+    color: #777;
+  }
+  
+  .footer-widget ul li a:hover {
+    color: #fb5c42;
+  }
+  
+  .social-icons a {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #dedede;
+    display: inline-block;
+    text-align: center;
+    color: #000;
+    padding-top: 8px;
+    border-radius: 100%;
+  }
+  
+  .footer-btm-links a {
+    color: #000;
+    margin-left: 8px;
+  }
+  
+  .copyright {
+    color: #000;
+  }
